@@ -1,0 +1,77 @@
+body {
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.body-content { background-image: url(../../12.10.2020homework/images/Background-fon/143168.jpg);
+                                   
+    max-width: 100%;
+    background-repeat: no-repeat;}
+
+
+
+
+
+.header-lenta-li {
+   list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    background: #000000;
+    margin: 0%;
+    
+}
+
+.header-lenta-li a {
+    text-decoration: none;
+    transition: 0.3s linear;
+    font-size: 18px;
+}
+
+.header-lenta-li a:hover {
+    color: #b41010;
+}
+
+
+.header-images {
+    margin: auto;
+}
+
+
+.article-content a {
+    padding: 15px;
+}
+
+.carousel-inner .item img {
+    width: 40%;
+    height: 300px;
+}
+
+
+
+.main-content-footer {
+    background-color: #000000;
+    
+}
+
+.main-content-footer-up {
+    display: flex;
+}
+
+.main-content-footer-up a {
+    padding: 15px;
+    font-size: 18px;
+}
+
+
+.container .row {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+.container .row img {
+    height: 200px;
+    width: 350px;
+    max-width: 100%;
+}

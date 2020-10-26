@@ -3,12 +3,12 @@
 body {
     margin: 0%;
     padding: 0%;
-}
-
-
-.body-content { background-image: url(../../12.10.2020homework/images/Background-fon/143168.jpg);
+    background-image: url(../../12.10.2020homework/images/Background-fon/143168.jpg);
     max-width: 100%;
-    background-repeat: no-repeat;}
+    }
+
+
+ 
 
 
 
@@ -73,4 +73,8 @@ body {
 .text-agitation {
     display: inline-block;
     justify-content: left;
+}
+
+.main-content-footer {
+    margin-top: 480px;
 }
